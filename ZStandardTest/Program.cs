@@ -48,6 +48,8 @@ namespace ZStandardTest
 			{
 				throw new Exception("Output is different from input!");
 			}
+
+			Console.ReadLine();
 		}
     }
 }
